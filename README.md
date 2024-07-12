@@ -1,5 +1,3 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
-
 # AluraBooks
 
 O AluraBooks é uma loja virtual que vende livros da Casa do Código. 
@@ -73,7 +71,3 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
-
-## 📚 Mais informações do curso
-
-O AluraBooks é o projeto utilizado durante toda a formação, e essa API será utilizada em vários cursos diferentes :)
