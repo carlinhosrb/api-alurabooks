@@ -10,8 +10,10 @@ Essa é ma API Rest mockada, utilizando json-server e JWT.
 ## 🛠️ Instalação
 
 ```bash
-$ npm install
+$ cd api-alurabooks
 $ npm run start-auth
+$ cd curso-react-alurabooks
+$ npm start
 ```
 ## 🛠️ Como se registrar?
 
